@@ -1,4 +1,4 @@
-<h4><b># python_learning</b><h4>
+<h4># python_learning<h4>
 
  This is a personal repository which i use to study and learn python
 Here I will upload small projects that I am creating to advance in programming with python.
